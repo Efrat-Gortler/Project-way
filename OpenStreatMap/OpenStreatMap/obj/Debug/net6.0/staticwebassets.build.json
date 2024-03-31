@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TF+K8nxaWIis2245AVCL3TraR9zWMYOK096zxhbW2pk=",
+  "Source": "OpenStreatMap",
+  "BasePath": "_content/OpenStreatMap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

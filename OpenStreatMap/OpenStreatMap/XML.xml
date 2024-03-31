@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.0 (2114274 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="32.7612100" minlon="35.0185200" maxlat="32.7616000" maxlon="35.0189600"/>
+ <node id="318963890" visible="true" version="7" changeset="141805341" timestamp="2023-09-27T07:41:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7642526" lon="35.0155568"/>
+ <node id="708983219" visible="true" version="4" changeset="14586888" timestamp="2013-01-09T14:57:24Z" user="Ori952" uid="385027" lat="32.7633187" lon="35.0166639"/>
+ <node id="708983221" visible="true" version="5" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7618637" lon="35.0184692"/>
+ <node id="708983228" visible="true" version="3" changeset="141805341" timestamp="2023-09-27T07:41:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7646142" lon="35.0152009"/>
+ <node id="833764298" visible="true" version="4" changeset="14586888" timestamp="2013-01-09T14:57:25Z" user="Ori952" uid="385027" lat="32.7637564" lon="35.0161183">
+  <tag k="barrier" v="lift_gate"/>
+ </node>
+ <node id="1445612963" visible="true" version="4" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7624144" lon="35.0177265"/>
+ <node id="1447013833" visible="true" version="2" changeset="14586888" timestamp="2013-01-09T14:47:46Z" user="Ori952" uid="385027" lat="32.7598737" lon="35.0204686"/>
+ <node id="1447013843" visible="true" version="3" changeset="14586888" timestamp="2013-01-09T14:47:46Z" user="Ori952" uid="385027" lat="32.7610495" lon="35.0194927"/>
+ <node id="1447013846" visible="true" version="3" changeset="14586888" timestamp="2013-01-09T14:57:24Z" user="Ori952" uid="385027" lat="32.7614839" lon="35.0189511"/>
+ <node id="1802986065" visible="true" version="12" changeset="106952180" timestamp="2021-06-25T10:09:33Z" user="Poller0" uid="13634435" lat="32.7615480" lon="35.0188120">
+  <tag k="bench" v="yes"/>
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="אוניברסיטה/מגדל אשכול"/>
+  <tag k="name:ar" v="جامعة/ميچدال أشكول"/>
+  <tag k="name:en" v="University/Eshkol Tower"/>
+  <tag k="name:he" v="אוניברסיטה/מגדל אשכול"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="ref" v="42996"/>
+  <tag k="shelter" v="yes"/>
+  <tag k="source" v="israel_gtfs"/>
+ </node>
+ <node id="1936599992" visible="true" version="3" changeset="74098473" timestamp="2019-09-04T17:15:46Z" user="Flayer" uid="4046684" lat="32.7612439" lon="35.0187415"/>
+ <node id="1936599997" visible="true" version="3" changeset="74098473" timestamp="2019-09-04T17:15:46Z" user="Flayer" uid="4046684" lat="32.7613993" lon="35.0185433"/>
+ <node id="1936599998" visible="true" version="3" changeset="74098473" timestamp="2019-09-04T17:15:46Z" user="Flayer" uid="4046684" lat="32.7614229" lon="35.0189399"/>
+ <node id="1936600007" visible="true" version="3" changeset="74098473" timestamp="2019-09-04T17:15:46Z" user="Flayer" uid="4046684" lat="32.7615782" lon="35.0187417"/>
+ <node id="3639283966" visible="true" version="2" changeset="141805341" timestamp="2023-09-27T07:41:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7643945" lon="35.0154114"/>
+ <node id="7674525946" visible="true" version="1" changeset="87414695" timestamp="2020-07-01T18:34:50Z" user="Yanivdu" uid="2285735" lat="32.7633750" lon="35.0165938"/>
+ <node id="7674525955" visible="true" version="1" changeset="87414695" timestamp="2020-07-01T18:34:50Z" user="Yanivdu" uid="2285735" lat="32.7611186" lon="35.0194066"/>
+ <node id="7674525961" visible="true" version="1" changeset="87414695" timestamp="2020-07-01T18:34:50Z" user="Yanivdu" uid="2285735" lat="32.7614022" lon="35.0190530"/>
+ <node id="7674525969" visible="true" version="2" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7626392" lon="35.0174462"/>
+ <node id="9255990877" visible="true" version="1" changeset="113843794" timestamp="2021-11-16T10:01:08Z" user="Moovit - MatanB" uid="12021410" lat="32.7617719" lon="35.0185922"/>
+ <node id="9255990879" visible="true" version="2" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7622807" lon="35.0179283"/>
+ <node id="10921448173" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7620578" lon="35.0173441"/>
+ <node id="10921448174" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7619766" lon="35.0174621"/>
+ <node id="10921448175" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7617975" lon="35.0177815"/>
+ <node id="10921448176" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7615493" lon="35.0181987"/>
+ <node id="10921448177" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7613719" lon="35.0184612"/>
+ <node id="10921448178" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7612162" lon="35.0187070"/>
+ <node id="10921448179" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7611052" lon="35.0188694"/>
+ <node id="10921448180" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7609457" lon="35.0191015"/>
+ <node id="10921448181" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7608577" lon="35.0192123"/>
+ <node id="10921448182" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7607722" lon="35.0193427"/>
+ <node id="10921448183" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7607224" lon="35.0195112"/>
+ <node id="10921448184" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7604494" lon="35.0197949"/>
+ <node id="10921448185" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7603256" lon="35.0199315"/>
+ <node id="10921448186" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7600347" lon="35.0202577"/>
+ <node id="10921448187" visible="true" version="1" changeset="136452412" timestamp="2023-05-23T11:34:47Z" user="Matyjace" uid="10988408" lat="32.7599441" lon="35.0203563"/>
+ <node id="11221954674" visible="true" version="1" changeset="141805341" timestamp="2023-09-27T07:41:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7630264" lon="35.0170283"/>
+ <node id="11221954707" visible="true" version="1" changeset="141805341" timestamp="2023-09-27T07:41:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7634971" lon="35.0164416"/>
+ <node id="11221962652" visible="true" version="1" changeset="141805341" timestamp="2023-09-27T07:41:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7640529" lon="35.0157827"/>
+ <node id="11222030395" visible="true" version="1" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625" lat="32.7632235" lon="35.0167826"/>
+ <way id="183281387" visible="true" version="4" changeset="62205240" timestamp="2018-09-01T19:51:27Z" user="Martin Koutecký" uid="8766906">
+  <nd ref="1936600007"/>
+  <nd ref="1936599997"/>
+  <nd ref="1936599992"/>
+  <nd ref="1936599998"/>
+  <nd ref="1936600007"/>
+  <tag k="building" v="university"/>
+  <tag k="name" v="בניין ג'ייקובס"/>
+  <tag k="name:en" v="Jacobs building"/>
+  <tag k="name:he" v="בניין ג'ייקובס"/>
+ </way>
+ <way id="200298296" visible="true" version="8" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625">
+  <nd ref="708983228"/>
+  <nd ref="3639283966"/>
+  <nd ref="318963890"/>
+  <nd ref="11221962652"/>
+  <nd ref="833764298"/>
+  <nd ref="11221954707"/>
+  <nd ref="7674525946"/>
+  <nd ref="708983219"/>
+  <nd ref="11222030395"/>
+  <nd ref="11221954674"/>
+  <nd ref="7674525969"/>
+  <nd ref="1445612963"/>
+  <nd ref="9255990879"/>
+  <nd ref="708983221"/>
+  <nd ref="9255990877"/>
+  <nd ref="1447013846"/>
+  <nd ref="7674525961"/>
+  <nd ref="7674525955"/>
+  <nd ref="1447013843"/>
+  <tag k="highway" v="service"/>
+  <tag k="level" v="0"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="1211199474" visible="true" version="1" changeset="141807299" timestamp="2023-09-27T08:22:57Z" user="Dmitriy Nikonov" uid="3309625">
+  <nd ref="10921448173"/>
+  <nd ref="10921448174"/>
+  <nd ref="10921448175"/>
+  <nd ref="10921448176"/>
+  <nd ref="10921448177"/>
+  <nd ref="10921448178"/>
+  <nd ref="10921448179"/>
+  <nd ref="10921448180"/>
+  <nd ref="10921448181"/>
+  <nd ref="10921448182"/>
+  <nd ref="10921448183"/>
+  <nd ref="10921448184"/>
+  <nd ref="10921448185"/>
+  <nd ref="10921448186"/>
+  <nd ref="10921448187"/>
+  <nd ref="1447013833"/>
+  <tag k="highway" v="footway"/>
+ </way>
+</osm>
